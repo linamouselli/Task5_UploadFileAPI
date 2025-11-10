@@ -14,7 +14,7 @@ username = admin
 
 The steps for run the project:
 
-git clone <REPO_URL>
+git clone https://github.com/linamouselli/Task5_UploadFileAPI.git
 
 cd session15Project
 
